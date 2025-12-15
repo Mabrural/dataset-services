@@ -1,174 +1,30 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-01-01",
+  "updated_at": "2025-01-01",
   "services": [
-    {
-      "id": 1,
-      "name": "Spooring & Balancing",
-      "slug": "spooring-balancing",
-      "category": "Kaki-Kaki",
-      "activenge": true
-    },
-    {
-      "id": 2,
-      "name": "Service Kaki-Kaki",
-      "slug": "service-kaki-kaki",
-      "category": "Kaki-Kaki",
-      "active": true
-    },
-    {
-      "id": 3,
-      "name": "Audio System",
-      "slug": "audio-system",
-      "category": "Elektrikal",
-      "active": true
-    },
-    {
-      "id": 4,
-      "name": "Ganti Oli",
-      "slug": "ganti-oli",
-      "category": "Mesin",
-      "active": true
-    },
-    {
-      "id": 5,
-      "name": "Spesialis Lampu",
-      "slug": "spesialis-lampu",
-      "category": "Elektrikal",
-      "active": true
-    },
-    {
-      "id": 6,
-      "name": "Jok Kulit & Interior",
-      "slug": "jok-kulit-interior",
-      "category": "Interior",
-      "active": true
-    },
-    {
-      "id": 7,
-      "name": "Service AC",
-      "slug": "service-ac",
-      "category": "AC",
-      "active": true
-    },
-    {
-      "id": 8,
-      "name": "Ban & Velg",
-      "slug": "ban-velg",
-      "category": "Ban",
-      "active": true
-    },
-    {
-      "id": 9,
-      "name": "Inspeksi",
-      "slug": "inspeksi",
-      "category": "General",
-      "active": true
-    },
-    {
-      "id": 10,
-      "name": "Kaca Film",
-      "slug": "kaca-film",
-      "category": "Exterior",
-      "active": true
-    },
-    {
-      "id": 11,
-      "name": "Body Repair",
-      "slug": "body-repair",
-      "category": "Body",
-      "active": true
-    },
-    {
-      "id": 12,
-      "name": "Fogging Interior Mobil",
-      "slug": "fogging-interior-mobil",
-      "category": "Interior",
-      "active": true
-    },
-    {
-      "id": 13,
-      "name": "Service Knalpot",
-      "slug": "service-knalpot",
-      "category": "Mesin",
-      "active": true
-    },
-    {
-      "id": 14,
-      "name": "Service Mesin",
-      "slug": "service-mesin",
-      "category": "Mesin",
-      "active": true
-    },
-    {
-      "id": 15,
-      "name": "Ganti Aki",
-      "slug": "ganti-aki",
-      "category": "Elektrikal",
-      "active": true
-    },
-    {
-      "id": 16,
-      "name": "Wrapping & Cutting Sticker",
-      "slug": "wrapping-cutting-sticker",
-      "category": "Exterior",
-      "active": true
-    },
-    {
-      "id": 17,
-      "name": "Home Service",
-      "slug": "home-service",
-      "category": "Service",
-      "active": true
-    },
-    {
-      "id": 18,
-      "name": "Uji Emisi",
-      "slug": "uji-emisi",
-      "category": "Regulasi",
-      "active": true
-    },
-    {
-      "id": 19,
-      "name": "Coating & Detailing",
-      "slug": "coating-detailing",
-      "category": "Detailing",
-      "active": true
-    },
-    {
-      "id": 20,
-      "name": "Cuci Mobil",
-      "slug": "cuci-mobil",
-      "category": "Detailing",
-      "active": true
-    },
-    {
-      "id": 21,
-      "name": "Perawatan Salon Mobil",
-      "slug": "perawatan-salon-mobil",
-      "category": "Detailing",
-      "active": true
-    },
-    {
-      "id": 22,
-      "name": "Jasa Derek (Towing)",
-      "slug": "jasa-derek-towing",
-      "category": "Emergency",
-      "active": true
-    },
-    {
-      "id": 23,
-      "name": "Accessories",
-      "slug": "accessories",
-      "category": "Accessories",
-      "active": true
-    },
-    {
-      "id": 24,
-      "name": "Other",
-      "slug": "other",
-      "category": "Other",
-      "active": true
-    }
+    { "key": "spooring_balancing", "name": "Spooring & Balancing" },
+    { "key": "service_kaki_kaki", "name": "Service Kaki-Kaki" },
+    { "key": "audio_system", "name": "Audio System" },
+    { "key": "ganti_oli", "name": "Ganti Oli" },
+    { "key": "spesialis_lampu", "name": "Spesialis Lampu" },
+    { "key": "jok_kulit_interior", "name": "Jok Kulit & Interior" },
+    { "key": "service_ac", "name": "Service AC" },
+    { "key": "ban_velg", "name": "Ban & Velg" },
+    { "key": "inspeksi", "name": "Inspeksi" },
+    { "key": "kaca_film", "name": "Kaca Film" },
+    { "key": "body_repair", "name": "Body Repair" },
+    { "key": "fogging_interior", "name": "Fogging Interior Mobil" },
+    { "key": "service_knalpot", "name": "Service Knalpot" },
+    { "key": "service_mesin", "name": "Service Mesin" },
+    { "key": "ganti_aki", "name": "Ganti Aki" },
+    { "key": "wrapping_sticker", "name": "Wrapping & Cutting Sticker" },
+    { "key": "home_service", "name": "Home Service" },
+    { "key": "uji_emisi", "name": "Uji Emisi" },
+    { "key": "coating_detailing", "name": "Coating & Detailing" },
+    { "key": "cuci_mobil", "name": "Cuci Mobil" },
+    { "key": "salon_mobil", "name": "Perawatan Salon Mobil" },
+    { "key": "towing", "name": "Jasa Derek (Towing)" },
+    { "key": "accessories", "name": "Accessories" },
+    { "key": "other", "name": "Other" }
   ]
 }
